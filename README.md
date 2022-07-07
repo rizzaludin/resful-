@@ -77,3 +77,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # resful-
+
+##Pengingat 
+
+GUNAKAN LARAVEL 6 YA GAIS KALO MAU PAKAI "SAYA SERTAKAN VIDEO TUTORIAL"
+https://www.youtube.com/watch?v=ZXgDzsS_P1c&list=PLEgI20pG1Dqz0ZRjerU_zpVbSrLSWdaLS
+
+#resful-
