@@ -83,4 +83,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 GUNAKAN LARAVEL 6 YA GAIS KALO MAU PAKAI "SAYA SERTAKAN VIDEO TUTORIAL"
 https://www.youtube.com/watch?v=ZXgDzsS_P1c&list=PLEgI20pG1Dqz0ZRjerU_zpVbSrLSWdaLS
 
-#resful-
+# resfulAPI-
